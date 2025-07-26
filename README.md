@@ -40,3 +40,9 @@ matplotlib
 pandas
 scikit-learn
 opencv-python
+```
+Accuracy
+
+![Alt text](Accuracy.jpg?raw=true "Title")
+
+There is a slight ups and down in the accuracy because of the Overfitting
