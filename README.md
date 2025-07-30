@@ -46,3 +46,7 @@ Accuracy
 ![Alt text](Accuracy.jpg?raw=true "Title")
 
 There is a slight ups and down in the accuracy because of the Overfitting
+
+You can also check this project on kaggle with the dataset and other response to it 
+
+https://www.kaggle.com/code/pariveshrohilla4105/emotion-detection
