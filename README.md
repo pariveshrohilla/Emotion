@@ -50,3 +50,9 @@ There is a slight ups and down in the accuracy because of the Overfitting
 You can also check this project on kaggle with the dataset and other response to it 
 
 https://www.kaggle.com/code/pariveshrohilla4105/emotion-detection
+
+
+![Emotion](https://github.com/user-attachments/assets/171a5ea4-171c-4eb8-bef1-9a1dcdbc169c)
+
+A Brief OverView OF the Images of Dataset
+
